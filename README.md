@@ -34,6 +34,7 @@ Awesome AI Tools of the Future
 - [HeyGen](https://www.heygen.com)
 - [Pika](https://www.pika.art)
 - [VEED.IO](https://www.veed.io)
+- [videos.social](https://videos.social/?utm_source=lvwzhen-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)
 
 ### Code
 - [GitHub Copilot](https://github.com/features/copilot)
