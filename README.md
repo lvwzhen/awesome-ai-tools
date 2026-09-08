@@ -34,6 +34,7 @@ Awesome AI Tools of the Future
 - [HeyGen](https://www.heygen.com)
 - [Pika](https://www.pika.art)
 - [VEED.IO](https://www.veed.io)
+- [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop)
 
 ### Code
 - [GitHub Copilot](https://github.com/features/copilot)
