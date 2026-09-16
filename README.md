@@ -34,6 +34,8 @@ Awesome AI Tools of the Future
 - [HeyGen](https://www.heygen.com)
 - [Pika](https://www.pika.art)
 - [VEED.IO](https://www.veed.io)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and assembly from editable plan.json timelines.
+
 
 ### Code
 - [GitHub Copilot](https://github.com/features/copilot)
