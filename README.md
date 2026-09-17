@@ -10,6 +10,7 @@ Awesome AI Tools of the Future
 - [Bing Chat](https://www.bing.com/new)
 - [Poe](https://poe.com)
 - [Character AI](https://beta.character.ai)
+- [Orkas](https://orkas.ai/?source=gh_lvw) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ### Writing
 - [Writesonic](https://writesonic.com)
