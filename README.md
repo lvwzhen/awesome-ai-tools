@@ -11,6 +11,7 @@ Awesome AI Tools of the Future
 - [Poe](https://poe.com)
 - [Character AI](https://beta.character.ai)
 - [Orkas](https://orkas.ai/?source=gh_lvw) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- [StudyArena](https://studyarena.com) - Compare three anonymous AI answers to a study question, vote, then reveal the models.
 
 ### Writing
 - [Writesonic](https://writesonic.com)
