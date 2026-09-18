@@ -20,6 +20,7 @@ Awesome AI Tools of the Future
 - [Notion AI](https://www.notion.so/product/ai)
 - [QuillBot](https://quillbot.com/)
 - [LanguageTool](https://languagetool.org/)
+- [Dom Frame](https://domframe.silentdirectivellc.com/?utm_source=awesome-ai-tools&utm_medium=resource-directory) - An AI texting coach: paste a conversation and get a read on it plus a reply you can actually send. Browser demo, also on iPhone.
 
 ### Image
 - [Midjourney](https://www.midjourney.com)
