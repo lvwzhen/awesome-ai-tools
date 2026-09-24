@@ -38,6 +38,7 @@ Awesome AI Tools of the Future
 - [videos.social](https://videos.social/?utm_source=lvwzhen-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)
 
 ### Code
+- [Agent QA](https://vostride.com/) - The self-improving QA agent for testing web and mobile apps with natural-language tests.
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Replit](https://replit.com)
 - [Cursor](https://cursor.sh)
