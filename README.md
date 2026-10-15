@@ -37,6 +37,7 @@ Awesome AI Tools of the Future
 - [Pika](https://www.pika.art)
 - [VEED.IO](https://www.veed.io)
 - [videos.social](https://videos.social/?utm_source=lvwzhen-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and assembly from editable plan.json timelines.
 
 ### Code
 - [Agent QA](https://vostride.com/) - The self-improving QA agent for testing web and mobile apps with natural-language tests.
