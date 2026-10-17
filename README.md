@@ -41,6 +41,7 @@ Awesome AI Tools of the Future
 - [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop)
 
 ### Code
+- [YYLO](https://yylo.dev) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
 - [Agent QA](https://vostride.com/) - The self-improving QA agent for testing web and mobile apps with natural-language tests.
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Replit](https://replit.com)
