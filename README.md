@@ -41,6 +41,7 @@ Awesome AI Tools of the Future
 - [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop)
 
 ### Code
+- [Aident Loadout](https://aident.ai) - Remote MCP that connects coding agents to 400+ Skills through one setup (Vault + Audit).
 - [Agent QA](https://vostride.com/) - The self-improving QA agent for testing web and mobile apps with natural-language tests.
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Replit](https://replit.com)
