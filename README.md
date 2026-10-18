@@ -21,6 +21,7 @@ Awesome AI Tools of the Future
 - [Notion AI](https://www.notion.so/product/ai)
 - [QuillBot](https://quillbot.com/)
 - [LanguageTool](https://languagetool.org/)
+- [ImagineYourBook](https://www.imagineyourbook.com/) - AI book-writing app that plans and drafts whole books chapter by chapter, with series story bibles and Word, EPUB and Markdown export.
 
 ### Image
 - [Midjourney](https://www.midjourney.com)
